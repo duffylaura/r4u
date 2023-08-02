@@ -4,9 +4,9 @@ import Row from 'react-bootstrap/Row';
 
 function Header() {
     return (
-    <Container className = 'header-outer-container'>
+    <Container>
       <Row className = 'a'>
-        <h1> Header. </h1>
+        <h1>  Res for Ukraine. </h1>
       </Row>
 
   
