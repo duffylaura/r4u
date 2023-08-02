@@ -4,8 +4,8 @@ import Row from 'react-bootstrap/Row';
 
 function Header() {
     return (
-    <Container>
-      <Row className = 'a'>
+    <Container className = "headerContainer">
+      <Row>
         <h1>  Res for Ukraine. </h1>
       </Row>
 
